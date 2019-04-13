@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://risky.love/posts/helloword/</loc>
+    <lastmod>2019-04-13T08:24:35+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://risky.love/posts/open_your_eyes/</loc>
     <lastmod>2019-04-12T20:52:07+08:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>http://risky.love/</loc>
-    <lastmod>2019-04-12T20:52:07+08:00</lastmod>
+    <lastmod>2019-04-13T08:24:35+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://risky.love/posts/</loc>
-    <lastmod>2019-04-12T20:52:07+08:00</lastmod>
+    <lastmod>2019-04-13T08:24:35+08:00</lastmod>
     <priority>0</priority>
   </url>
   
